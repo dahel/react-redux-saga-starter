@@ -1,5 +1,5 @@
 {
-  "name": "react-readux-saga-starter",
+  "name": "react-redux-saga-starter",
   "version": "0.0.1",
   "description": "Boilerplate for React Redux Saga applications",
   "main": "index.js",
